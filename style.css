@@ -1,0 +1,34 @@
+*{
+  margin: 0; 
+}
+
+
+.wrapper { 
+  padding-left: 20px;
+  padding-top: 20px; 
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+body { 
+  background-color: #4D9FFD;
+}
+
+
+
+button { 
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 55px; 
+  min-width: 20px;
+  background-color: #0404B4;
+  color: white;
+  box-shadow: 1px 1px 2px black;
+  font-size: 40px;
+  cursor: pointer;
+  outline: 20px;
+  transition: 0.2s;
+  width: 18.5%;
+  border: black;
+}
